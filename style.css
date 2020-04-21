@@ -1,15 +1,27 @@
 h3 {
-    color:aqua;
+    color: aqua;
 }
+
+h2 {
+    color: aqua;
+}
+
+ul {
+    color: peachpuff;
+}
+
+body {
+    background-color: palevioletred;
+}
+
 body {
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
-body{
-    background-color: darkolivegreen;
+
+h1 {
+    border: 3px dashed black;
 }
-h2 {
-    color:aqua;
-}
-ul {
-    color: palevioletred;
+
+div {
+    border: 4px dashed red;
 }
