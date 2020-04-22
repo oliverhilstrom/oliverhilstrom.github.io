@@ -1,9 +1,10 @@
 h3 {
-    color: aqua;
+    color: blueviolet;
+    border: 3px solid black;
 }
 
 h2 {
-    color: aqua;
+    color: blueviolet;
 }
 
 ul {
@@ -11,7 +12,7 @@ ul {
 }
 
 body {
-    background-color: palevioletred;
+    background-color: lightsalmon;
 }
 
 body {
@@ -19,9 +20,22 @@ body {
 }
 
 h1 {
-    border: 3px dashed black;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px 5px orange;
+
 }
 
 div {
-    border: 4px dashed red;
+    border-width: 4px;
+    border-color: red;
+    border-style: dotted;
+   
+
+}
+
+img {
+    border: 4px solid black;
 }
