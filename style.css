@@ -1,6 +1,7 @@
 h3 {
     color: blueviolet;
     border: 3px solid black;
+    box-shadow: 5px 5px 0px 0px darkorchid;
 }
 
 h2 {
@@ -12,7 +13,7 @@ ul {
 }
 
 body {
-    background-color: lightsalmon;
+    background-color: 80aaff;
 }
 
 body {
@@ -38,4 +39,12 @@ div {
 
 img {
     border: 4px solid black;
+}
+
+p {
+    border: 2px solid palegreen;
+}
+
+p1 {
+    background-color: darkslategray;
 }
