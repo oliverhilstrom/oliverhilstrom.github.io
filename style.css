@@ -5,7 +5,8 @@ h3 {
 }
 
 h2 {
-    color: blueviolet;
+    color: orangered;
+    border: 3px solid burlywood;
 }
 
 ul {
@@ -47,4 +48,8 @@ p {
 
 p1 {
     background-color: darkslategray;
+}
+
+p2 {
+    border: 3px dotted palegoldenrod;
 }
