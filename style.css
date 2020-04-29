@@ -3,7 +3,6 @@ h3 {
     border: 3px solid black;
     box-shadow: 5px 5px 0px 0px darkorchid;
     padding: 10px;
-    margin-right: 5px;
     margin-bottom: 5px;
     margin-top: 5px;
 }
@@ -11,6 +10,8 @@ h3 {
 h2 {
     color: black;
     border: 3px solid burlywood;
+    padding: 10px;
+    margin-right: 60%;
 }
 
 ul {
@@ -40,6 +41,7 @@ div {
     border-color: red;
     border-style: dotted;
     margin: 10px;
+    padding: 15px;
 
 }
 
@@ -65,4 +67,33 @@ p {
     border: 2px solid palegreen;
     padding: 10px;
     margin: 10px;
+}
+
+#states {
+    margin-right: 65%;
+}
+
+#puzzle {
+    margin-right: 75%;
+}
+
+#questiontitle {
+    margin-right: 65%;
+}
+
+#movies {
+    margin-right: 67%;
+}
+
+#foods {
+    margin-right: 70%;
+}
+
+#websites {
+    margin-right: 75%;
+}
+
+#colortitle {
+    margin-right: 75%;
+
 }
