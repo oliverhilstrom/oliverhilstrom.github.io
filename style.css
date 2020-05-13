@@ -74,6 +74,10 @@ p {
     border: 5px dashed firebrick;
 }
 
+.states {
+    font-style: oblique;
+}
+
 #puzzle {
     margin-right: 75%;
     border: 19px dotted firebrick;
@@ -89,9 +93,17 @@ p {
     border: 10px double firebrick;
 }
 
+.movies {
+    font-style: italic;
+}
+
 #foods {
     margin-right: 70%;
     border: 7px dotted firebrick;
+}
+
+.food {
+    font-style: italic;
 }
 
 #websites {
