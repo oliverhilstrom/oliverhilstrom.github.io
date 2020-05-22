@@ -135,3 +135,7 @@ margin-right: 80%;
 #games {
     font-style: bold;
 }
+
+#music {
+    border: 10px dashed darkblue;
+}
