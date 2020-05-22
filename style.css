@@ -125,3 +125,13 @@ margin-right: 80%;
     border: 8px outset firebrick;
 
 }
+
+
+
+#comment {
+    border: 10px inset goldenrod;
+}
+
+#games {
+    font-style: bold;
+}
