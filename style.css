@@ -141,3 +141,12 @@ margin-right: 80%;
 #music {
     border: 10px dashed darkblue;
 }
+
+#pages {
+    margin-right: 40%;
+}
+
+#police {
+    border: none;
+    box-shadow: none;
+}
