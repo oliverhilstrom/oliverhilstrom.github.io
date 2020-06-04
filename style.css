@@ -64,7 +64,7 @@ border: 5px inset lightblue;
 }
 
 #otherpages {
-margin-right: 80%;
+margin-right: 60%;
 }
 
 #colors {
@@ -149,4 +149,15 @@ margin-right: 80%;
 #police {
     border: none;
     box-shadow: none;
+}
+
+#lastday {
+    border: none;
+    box-shadow: none;
+}
+
+#last {
+    border: none;
+    box-shadow: none;
+    color: 004080;
 }
